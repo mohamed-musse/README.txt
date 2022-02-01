@@ -2,3 +2,7 @@
 
 ## Lab 1
 
+### Contributors: Abdullahi Ahmed & Mohamed Musse
+
+
+
